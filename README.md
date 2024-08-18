@@ -7,7 +7,7 @@
 
 ## Demo
 
-Check out the live demo [↗️](https://mohit-kucheriya.github.io/FormStudio/)
+Check out the live demo [↗️](https://mohit-kucheriya.github.io/KiKin/)
 
 ## Screenshot
 ![Screenshot 1](https://github.com/Mohit-Kucheriya/KiKin/blob/a99d473de746c136f2532d491c9fcc2920c643f5/Screenshot/k1.png)
